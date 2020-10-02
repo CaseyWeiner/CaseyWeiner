@@ -4,6 +4,8 @@
   - School Email: cweiner6@jhu.edu
   - Personal Email: caseypw@gmail.com
 
+Any students from Introduction to Biomedical Data Science can message me on slack or make an issue in my fork of the ds4bme_intro repo.
+
 <!--
 **caseypw/caseypw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
