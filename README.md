@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 📫 How to reach me:
-  - Email: caseypw@jhu.edu
+  - School Email: cweiner6@jhu.edu
+  - Personal Email: caseypw@gmail.com
 
 <!--
 **caseypw/caseypw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
