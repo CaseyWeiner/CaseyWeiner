@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+Casey Weiner: Undergraduate student, TA for EN.580.475 Introduction to Biomedical Data Science
+
 📫 How to reach me:
   - School Email: cweiner6@jhu.edu
   - Personal Email: caseypw@gmail.com
 
-Any students from Introduction to Biomedical Data Science can message me on slack or make an issue in my fork of the ds4bme_intro repo.
+Any students from 475 can email me or message me on slack
 
 <!--
 **caseypw/caseypw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
