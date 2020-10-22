@@ -3,6 +3,7 @@
 Casey Weiner: Undergraduate student, TA for EN.580.475 Introduction to Biomedical Data Science
 
 📫 How to reach me:  
+
 <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />  
 cweiner6@jhu.edu  
   
