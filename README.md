@@ -14,8 +14,6 @@
 |:----:|:----:|
 | cweiner6@jhu.edu | caseypw@gmail.com |
 
-Any students from 475 can email me or message me on slack
-
 <!--
 **caseypw/caseypw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
