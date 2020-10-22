@@ -4,8 +4,9 @@ Casey Weiner: Undergraduate student, TA for EN.580.475 Introduction to Biomedica
 
 📫 How to reach me:   
 
-| <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" /> | cweiner6@jhu.edu | <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> | caseypw@gmail.com |  
-|---|---|---|---|  
+| <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> |
+|---|---|
+| cweiner6@jhu.edu | caseypw@gmail.com |
 
 Any students from 475 can email me or message me on slack
 
