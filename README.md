@@ -1,6 +1,7 @@
-### Hi there 👋
+# Casey Weiner
 
-Casey Weiner: Undergraduate student, TA for EN.580.475 Introduction to Biomedical Data Science
+ - Undergraduate student  
+ - TA for EN.580.475 Introduction to Biomedical Data Science
 
 📫 How to reach me:   
 
