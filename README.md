@@ -1,5 +1,7 @@
 # Casey Weiner
 
+[Personal Website](https://www.caseyweiner.com)
+
 ## Proficiencies
 
 |<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />|<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>|  
