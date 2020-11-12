@@ -1,5 +1,4 @@
 # Casey Weiner
----
 
 ## Proficiencies
 
